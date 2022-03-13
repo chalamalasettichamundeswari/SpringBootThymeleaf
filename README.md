@@ -9,6 +9,7 @@ Includes different scenarios:
 Steps to Setup:   
 1.Clone the application https://github.com/chalamalasettichamundeswari/SpringBootThymeleaf.git   
 2.Add the dependency: wet-cdts-spring-boot-thymeleaf-starter
+3.disabling the cache by using spring.thymeleaf.cache=false
 
 The app will start running at 
 
